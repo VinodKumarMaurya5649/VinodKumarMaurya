@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinodkumarmaurya
+- 👋 Hi, I’m @VinodKumarMaurya
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on tech community 
