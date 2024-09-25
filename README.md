@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinodnitroattacker
+- 👋 Hi, I’m @vinodkumarmaurya
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on tech community 
